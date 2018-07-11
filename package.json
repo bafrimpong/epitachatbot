@@ -1,0 +1,33 @@
+{
+  "name": "bottutorial",
+  "version": "1.0.0",
+  "description": "a bot tutorial taken online",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Onuapaye/bottutorial.git"
+  },
+  "keywords": [
+    "bot",
+    "dialogflow",
+    "webhook",
+    "node.js",
+    "bismark"
+  ],
+  "author": "Bismark Atta FRIMPONG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Onuapaye/bottutorial/issues"
+  },
+  "homepage": "https://github.com/Onuapaye/bottutorial#readme",
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "request": "^2.87.0",
+    "save": "^2.3.2"
+  }
+}
